@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "f35592ec9dd6452887a1fcba59b7ad63",
+const RESOURCES = {"flutter_bootstrap.js": "9a9282c2ca08bdbf93e4289d6cf1ff5f",
 "version.json": "404ac7ee9da5da8572940346f863bd6d",
 "index.html": "8aedaac7dcf18ecdcc56a6e8a3d16943",
 "/": "8aedaac7dcf18ecdcc56a6e8a3d16943",
 "firebase-messaging-sw.js": "e39f5f1319ee17b3d20a4011cb8574aa",
-"main.dart.js": "146b7a07f88433213b3a0111d3070c76",
+"main.dart.js": "50ae73f14dc0a018be068ae5dde76f50",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "4a5f397e8ae1a2bce4592972b26a883f",
 "icons/zawajcards/favicon.webp": "370384e7bc3f67df584ea7c744e483ae",
